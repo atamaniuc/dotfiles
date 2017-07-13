@@ -1,3 +1,1 @@
-These are my dotfiles.
-
-This repo uses homeshick - https://github.com/andsens/homeshick
+My *nix dotfiles.
